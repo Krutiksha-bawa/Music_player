@@ -2,14 +2,7 @@
 
  Music Player is a simple python based music player application made using the pygame and tkinter library. 
 
-
-![Alt text](app.png?raw=true "Musicxy MP3 Player")
-
 You can play / pause, next / previous MP3 songs at the same time increase and decrease volume
-
-## How to Download
-
-Download this project from here [Download Musicxy - Music Player](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player)
 
 ## Requirements
 
